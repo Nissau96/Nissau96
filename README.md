@@ -25,7 +25,7 @@ I'm a passionate **[Fullstack Developer]** with experience in **[WordPress, Lara
 
 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻
 
