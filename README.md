@@ -35,16 +35,11 @@ I'm a passionate **[Fullstack Developer]** with experience in **[WordPress, Lara
 
 **[Autovista Car Website]** is a **[A car website that allows both customers and garage owners to buy and sell vehicles.]** built with **[WordPress]**. This project demonstrates my ability to **[develop e-commerce website]**. You can check out the repository [here](project_1_repository_link).
 
-### [SPML Website](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[SPML]** is a **[corporate website built for spml company.]** built with **[React]**. This project showcases my skills in **[developing websites using React]**. You can check out the repository [here](https://github.com/Nissau96/spml-react-website.git).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(https://www.linkedin.com/in/ibrahim-halidu-05997a213/)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]** (https://x.com/Ibrah_Nissau)
 
 
