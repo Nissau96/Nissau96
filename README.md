@@ -1,6 +1,6 @@
 # Hi there, I'm Ibrahim Halidu! 👋
 
-![Banner Image](https://drive.google.com/file/d/1OhslNc1lIeo6DnacCeDzy0DERXVUZ7TG/view?usp=sharing)
+![Image](https://github.com/user-attachments/assets/5ca8e4bd-1cd9-4133-bf3a-b4db75cecdb3)
 
 ## About Me 🚀
 
